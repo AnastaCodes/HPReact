@@ -1,0 +1,15 @@
+.headerContainer {
+  margin: 0 auto;
+  padding: 3rem 0;
+  max-width: 80vw;
+  color: white;
+  display: grid;
+  align-content: center;
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  opacity: 0.25;
+}
